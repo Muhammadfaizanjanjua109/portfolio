@@ -18,7 +18,7 @@ function MyWork() {
     </div>
       <section id="work" class="services mb-5">
     
-      <div class="container">
+      <div class="container MNMNMN" >
       <div class="panel">
     <div class="ring">
       <div class="card card2"></div>

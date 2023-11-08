@@ -1677,3 +1677,14 @@ footer .credits a {
   font-size: 16px;
 }
 
+
+
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .MNMNMN{
+  flex-direction: column;
+  }
+  .MNMNMNMNMNMN{
+    margin-bottom: 50px;
+  }
+ }
