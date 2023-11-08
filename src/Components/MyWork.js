@@ -23,13 +23,13 @@ function MyWork() {
     <div class="ring">
       <div class="card card2"></div>
       <div class="border">
-        <p class="title">TeleHealth / Telxy </p>
+        <p class="title text-light">TeleHealth / Telxy </p>
         <div class="slide">
-          <h6 class="para">At BellMedex</h6>
+          <h6 class="para  text-light">At BellMedex</h6>
         
           <div class="line">
-            <h6 class="para">Role</h6> <i class="fa fa-plane" aria-hidden="true"></i>
-            <h6 class="para">Figma Convertion</h6>
+            <h6 class="para  text-light">Role</h6> <i class="fa fa-plane" aria-hidden="true"></i>
+            <h6 class="para  text-light">Figma Convertion</h6>
           </div>
         </div>
       </div>
@@ -39,13 +39,13 @@ function MyWork() {
     <div class="ring">
       <div class="card card2"></div>
       <div class="border">
-        <p class="title">EHR / PMS</p>
+        <p class="title  text-light">EHR / PMS</p>
         <div class="slide">
-          <h6 class="para">At BellMedex</h6>
+          <h6 class="para  text-light">At BellMedex</h6>
         
           <div class="line">
-            <h6 class="para">Role</h6> <i class="fa fa-plane" aria-hidden="true"></i>
-            <h6 class="para">Frontend Developer</h6>
+            <h6 class="para  text-light">Role</h6> <i class="fa fa-plane" aria-hidden="true"></i>
+            <h6 class="para  text-light">Frontend Developer</h6>
           </div>
         </div>
       </div>
@@ -55,13 +55,13 @@ function MyWork() {
     <div class="ring">
       <div class="card card2"></div>
       <div class="border">
-        <p class="title">Interprise App</p>
+        <p class="title  text-light">Interprise App</p>
         <div class="slide">
-          <h6 class="para">Joyn Digital</h6>
+          <h6 class="para  text-light">Joyn Digital</h6>
         
           <div class="line">
-            <h6 class="para">Role</h6> <i class="fa fa-plane" aria-hidden="true"></i>
-            <h6 class="para">MERN Developer</h6>
+            <h6 class="para  text-light">Role</h6> <i class="fa fa-plane" aria-hidden="true"></i>
+            <h6 class="para text-light">MERN Developer</h6>
           </div>
         </div>
       </div>
