@@ -1,0 +1,44 @@
+import Image from 'next/image'
+import Footer from '@/Components/Footer'
+import React from 'react'
+
+import Link from 'next/link'
+import Navbar from '@/Components/Navbar'
+import Main from '@/Components/Main'
+export default function Home() {
+
+
+  return (
+ <>
+
+
+<Navbar/>
+<Main />
+
+  {/* <!-- ======= Footer ======= --> */}
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="copyright-box">
+            <p class="copyright">&copy; Copyright <strong>Faizan</strong>. All Rights Reserved</p>
+            <div class="credits">
+              {/* <!--
+              All the links in the footer should remain intact.
+              You can delete the links only if you purchased the pro version.
+              Licensing information: https://bootstrapmade.com/license/
+              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
+            --> */}
+              {/* Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> */}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  {/* <!-- End  Footer --> */}
+
+
+ </>
+  )
+}
